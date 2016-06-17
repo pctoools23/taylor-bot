@@ -239,7 +239,7 @@ function create_config( )
     Taylor Team and Taylor Bot Anti spam / anti link
     
     website : 
-    taylortg.ir  ❤️
+    taylortg.  ❤️
     
     admin : 
     
